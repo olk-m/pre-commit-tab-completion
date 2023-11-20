@@ -2,6 +2,9 @@
 
 Shell tab completion scripts for [pre-commit](https://github.com/pre-commit/pre-commit).
 
+##### To-do:
+- [ ] Files completion (e.g. when using `pre-commit run --files`).
+
 ## How to use
 
 Select a required file (zsh, bash, tcsh) and copy its content somewhere your shell looks for completions.  
