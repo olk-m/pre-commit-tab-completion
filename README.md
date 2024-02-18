@@ -1,5 +1,9 @@
 # pre-commit-tab-completion
 
+⚠️ I do not work on this anymore. Use instead https://github.com/mdeweerd/pre-commit-completion
+
+---
+
 Shell tab completion scripts for [pre-commit](https://github.com/pre-commit/pre-commit).
 
 ##### To-do:
